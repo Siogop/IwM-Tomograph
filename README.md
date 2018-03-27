@@ -1,2 +1,2 @@
 # IwM-Tomograph
-# Student project
+Student project
